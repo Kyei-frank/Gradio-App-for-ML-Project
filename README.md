@@ -33,7 +33,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
     </tr>
     <tr>
         <td><img src="./screenshots/pic1.png"/></td>
-        <td><img src="./screenshots/pic22.png"/></td>
+        <td><img src="./screenshots/pic2.png"/></td>
     </tr>
 </table>
 
