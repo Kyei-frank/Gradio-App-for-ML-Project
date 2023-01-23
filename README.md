@@ -22,7 +22,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
         or
     - Go to your browser at the following address :
         
-      https://huggingface.co/spaces/FKBaffour/Gradio_Customer_Churn_Prediction_App
+      https://huggingface.co/spaces/FKBaffour/Customer_Churn_Prediction_App
         
 ## Screenshots
 
